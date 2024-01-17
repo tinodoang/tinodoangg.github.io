@@ -1,0 +1,88 @@
+.warna1{
+    background-color: rgb(65, 65, 65);
+    
+}
+
+.warna2{
+    background-color: white;
+}
+
+.warna3{
+    background-color: rgb(26, 153, 226);
+}
+
+.warna4{
+    background-color: rgb(54, 54, 153);
+}
+
+.warna5{
+    background-color: rgb(189, 124, 124);
+}
+
+.banner{
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/banner2.jpg');
+}
+
+.highlighted-kategori{
+    height: 250px;
+}
+
+.kategori-keyboard{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/kb2.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-mouse{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/mouse1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-laptop{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/laptop1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration{
+    text-decoration: none;
+    color: white;
+}
+
+.no-decoration:hover{
+    color: rgb(26, 153, 226);
+}
+
+.text-harga{
+    font-size: 22px;
+    color: rgb(26, 153, 226);
+}
+
+.image-box{
+    height: 250px;
+}
+
+.image-box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content-follow{
+    color: black;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.content-follow a{
+    color: #fff;
+}
+
+.banner-produk{
+    height: 50vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/banner2.jpg');
+    background-position: 50% 50%;
+}
+
